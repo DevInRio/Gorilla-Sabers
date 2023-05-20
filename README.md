@@ -1,5 +1,5 @@
-## Controls
-
+# Controls
+* Press B on your controller to ignight and retract the blade
 
 
 
