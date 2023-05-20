@@ -1,4 +1,6 @@
 # Gorilla-Sabers
 Light Saber in Gorilla Tag
 
-!https://cdn.discordapp.com/attachments/1041084036447207505/1109510715401838732/GorillaSaberPreview.gif
+#Preview
+
+![GorillaSaberPreview](https://github.com/LEPHROGFISH/Gorilla-Sabers/assets/97571346/2d6c868e-33df-4a7c-b942-babf9723212f)
